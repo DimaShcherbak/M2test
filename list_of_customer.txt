@@ -9,3 +9,4 @@ Dima Хацкер
 Day 2, today I'm gonna repeat English.
 added .gitignore to the project
 Миша
+выбыли: Рома, Женя
