@@ -8,5 +8,7 @@ test 2
 Dima Хацкер
 Day 2, today I'm gonna repeat English.
 added .gitignore to the project
+test git ignore
 Миша
 выбыли: Рома, Женя
+fix conflict
